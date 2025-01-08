@@ -165,8 +165,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractionManager: {fileID: 0}
   m_InteractableObject: {fileID: 6318594939481662421}
-  m_SnapCollider: {fileID: 0}
-  m_DisableSnapColliderWhenSelected: 1
+  m_SnapCollider: {fileID: 755809663822108342}
+  m_DisableSnapColliderWhenSelected: 0
   m_SnapToCollider: {fileID: 0}
 --- !u!65 &755809663822108342
 BoxCollider:
@@ -214,7 +214,7 @@ Transform:
   m_GameObject: {fileID: 3127201216646738232}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.05, z: 0}
+  m_LocalPosition: {x: 0, y: 0.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -365,7 +365,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 6885e682369f83248bfd875915662472, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
