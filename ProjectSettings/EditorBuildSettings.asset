@@ -11,12 +11,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/DemoScene.unity
     guid: 7edb63a9c15d39e4d9a5c914fc32ca6e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Teleport Scene.unity
     guid: a34fb141d8936af4b8ce5c54c8190d22
   - enabled: 0
     path: Assets/Scenes/continuosMove.unity
     guid: 7bb9467b5f9fea54f8490e50e4def2a3
+  - enabled: 1
+    path: Assets/Scenes/Poke Interaction.unity
+    guid: 20e68e1c0ca76194b9148d67e5082c6d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8e41d95d58eed6947937aee848d089e3, type: 2}
