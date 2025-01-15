@@ -17,9 +17,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/continuosMove.unity
     guid: 7bb9467b5f9fea54f8490e50e4def2a3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Poke Interaction.unity
     guid: 20e68e1c0ca76194b9148d67e5082c6d
+  - enabled: 1
+    path: Assets/Scenes/FarInteractable.unity
+    guid: 7afa6f89e22658b409e04c5c85aefbaf
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8e41d95d58eed6947937aee848d089e3, type: 2}
